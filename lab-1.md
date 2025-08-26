@@ -5,19 +5,19 @@
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/your_username)
+1. [ESanchez45](https://github.com/ESanchez45)
 
 ## Part 2 - Research
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
-| Get-Location | pwd    |        |
-| Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
+| help    | man         |   shows you where to find help forums online for powershell     |
+| Get-Location | pwd    |    shows you the current path you are at in the powershell terminal    |
+| Get-ChildItem | ls    |   lists the items in your current location in the terminal     |
+| mkdir   | mkdir       |    makes a new directory in your current location in the terminal    |
+| Set-Location | cd     |    sets your current location in the terminal to what you desire one step at a time    |
+| New-Item | touch      |    creates a new file in your current directory    |
+| Move-Item | mv        |    Moves a specified file to a specified location    |
 | Copy-Item | cp        |        |
 | Remove-Item | rm      |        |
 | notepad.exe | vim     |        |
