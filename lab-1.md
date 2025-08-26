@@ -1,7 +1,7 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Emmanuel Sanchez
+- Email: sanchez.80@wright.edu
 
 ## Part 1 - GitHub Profile
 
