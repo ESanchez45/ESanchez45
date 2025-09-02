@@ -29,7 +29,7 @@ Command to SSH to AWS instance:
     - Means: The user can read write and execute, members of the file can read and execute, and everyone can execute the program. 
     - Assessment:
 5. `chmod -R ug+w share`
-    - Means: 
+    - Means: This mean it uses recursion to allow subdirectories of share to allow the user and group to have writing permissions to the files.
     - Assessment:
 
 ## Part 3 Answers
